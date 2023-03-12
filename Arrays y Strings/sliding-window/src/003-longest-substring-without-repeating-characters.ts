@@ -1,6 +1,5 @@
 /**
- * T: O(n)
- * S: O(n)
+ * T: O(n) | * S: O(1)
  */
 function lengthOfLongestSubstring(s: string): number {
   let p1 = 0
