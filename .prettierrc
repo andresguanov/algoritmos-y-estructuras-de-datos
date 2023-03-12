@@ -1,0 +1,24 @@
+{
+  "tabWidth": 2,
+  "semi": false,
+  "bracketSpacing": false,
+  "singleQuote": true,
+  "bracketSameLine": true,
+  "trailingComma": "all",
+  "printWidth": 100,
+  "endOfLine":"auto",
+  "overrides": [
+    {
+      "files": "*.css",
+      "options": {
+        "parser": "css"
+      }
+    },
+    {
+      "files": "*.md",
+      "options": {
+        "parser": "mdx"
+      }
+    }
+  ]
+}
