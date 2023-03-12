@@ -8,7 +8,7 @@
 977. [**Squares of a Sorted Array**](https://github.com/andresguanov/algoritmos-y-estructuras-de-datos/blob/main/Arrays%20y%20Strings/Dos%20apuntadores/src/977-squares-of-a-sorted-array.ts): [Leetcode](https://leetcode.com/problems/squares-of-a-sorted-array/) - [Explicación](https://youtu.be/FPCZsG_AkUg)
 
 ## Medium
-75. Sort Colors: [Leetcode](https://leetcode.com/problems/sort-colors/) - [Explicación](https://youtu.be/4xbWSRZHqac)
+75. [**Sort Colors**](https://github.com/andresguanov/algoritmos-y-estructuras-de-datos/blob/main/Arrays%20y%20Strings/Dos%20apuntadores/src/075-sort-colors.ts): [Leetcode](https://leetcode.com/problems/sort-colors/) - [Explicación](https://youtu.be/4xbWSRZHqac)
 986. Interval List Intersections: [Leetcode](https://leetcode.com/problems/interval-list-intersections/submissions/913388751/) - [Explicación](https://youtu.be/Qh8ZjL1RpLI)
 
 ## Hard
