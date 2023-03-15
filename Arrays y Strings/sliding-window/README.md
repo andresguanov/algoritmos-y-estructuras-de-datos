@@ -12,4 +12,9 @@
 [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - 
 [Explicación](https://youtu.be/wiGpQwVHdE0)
 
+[424](./src/424-longest-repeating-character-replacement.ts). 
+**Longest Repeating Character Replacement**: 
+[Leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/) - 
+[Explicación](https://youtu.be/gqXU1UyA8pk)
+
 ## Hard
