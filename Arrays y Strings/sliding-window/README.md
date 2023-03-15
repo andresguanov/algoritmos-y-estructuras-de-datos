@@ -17,4 +17,9 @@
 [Leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/) - 
 [Explicación](https://youtu.be/gqXU1UyA8pk)
 
+[438](./src/438-find-all-anagrams-in-a-string.ts). 
+**Find All Anagrams in a String**: 
+[Leetcode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) - 
+[Explicación](https://youtu.be/G8xtZy0fDKg)
+
 ## Hard
