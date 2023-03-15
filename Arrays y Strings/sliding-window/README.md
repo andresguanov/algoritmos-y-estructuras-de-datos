@@ -12,6 +12,11 @@
 [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - 
 [Explicación](https://youtu.be/wiGpQwVHdE0)
 
+[395](./src/395-longest-substring-with-at-least-k-repeating-characters.ts). 
+**Longest Substring with At Least K Repeating Characters**: 
+[Leetcode](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) - 
+[Explicación](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/editorial/)
+
 [424](./src/424-longest-repeating-character-replacement.ts). 
 **Longest Repeating Character Replacement**: 
 [Leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/) - 
@@ -21,5 +26,7 @@
 **Find All Anagrams in a String**: 
 [Leetcode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) - 
 [Explicación](https://youtu.be/G8xtZy0fDKg)
+
+
 
 ## Hard
