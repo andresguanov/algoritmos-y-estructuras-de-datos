@@ -5,5 +5,7 @@
 
 * [**Sliding Window**](./Arrays%20y%20Strings/sliding-window/)
 
+* [**Binary Search**](./Arrays%20y%20Strings/binary-search/)
+
 
 
