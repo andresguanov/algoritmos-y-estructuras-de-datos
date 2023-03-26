@@ -1,6 +1,11 @@
 # Two pointers
 
 ## Easy
+[125](./src/125-valid-palindrome.ts). 
+**Move Zeroes**: 
+[Leetcode](https://leetcode.com/problems/valid-palindrome/) - 
+[Explicación](https://youtu.be/jJXJ16kPFWg)
+
 [283](./src/283-move-zeroes.ts). 
 **Move Zeroes**: 
 [Leetcode](https://leetcode.com/problems/move-zeroes/) - 
